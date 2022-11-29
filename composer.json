@@ -1,5 +1,5 @@
 {
-    "name": "rubix/ml",
+    "name": "givx/ml",
     "type": "library",
     "description": "A high-level machine learning and deep learning library for the PHP language.",
     "homepage": "https://rubixml.com",
@@ -30,6 +30,13 @@
             "homepage": "https://github.com/RubixML/ML/graphs/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Givx/ML"
+        }
+    ]    
+    
     "require": {
         "php": ">=7.4",
         "ext-json": "*",
