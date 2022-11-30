@@ -30,13 +30,6 @@
             "homepage": "https://github.com/RubixML/ML/graphs/contributors"
         }
     ],
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/Givx/ML"
-        }
-    ]    
-    
     "require": {
         "php": ">=7.4",
         "ext-json": "*",
